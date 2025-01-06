@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "Meiro",
             url: "https://github.com/meiroio/mobile_sdk_ios_build/releases/download/1.1.0/Meiro.xcframework.zip",
-            checksum: "09ed1a7c910b99071b489543bbbcd85aa2cdaff29de3bf740598af0dba50ae3c"
+            checksum: "c572e6ce60b98d40741d1341268f68dcea71c997d7c88918c11b46d4fe28cc6e"
         ),
     ]
 )
