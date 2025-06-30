@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Meiro",
-            url: "https://github.com/meiroio/mobile_sdk_ios_build/releases/download/1.1.0/Meiro.xcframework.zip",
-            checksum: "c572e6ce60b98d40741d1341268f68dcea71c997d7c88918c11b46d4fe28cc6e"
+            url: "https://github.com/meiroio/mobile_sdk_ios_build/releases/download/1.1.1/Meiro.xcframework.zip",
+            checksum: "058e312dd2508e1b82bd1369c84b7c8beb1d285b79d4e56a34a1a64e5846d1dc"
         ),
     ]
 )
